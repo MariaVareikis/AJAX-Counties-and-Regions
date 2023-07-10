@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    visibility: hidden;
+    width: 50% !important;
+    margin: 30px auto;
+    backdrop-filter: blur(10px);
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+#searchBox {
+    width: 25%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: Ink Free;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(81, 81, 230);
+    font-size: 65px;
+}
+
+p {
+    font-family: Ink Free;
+    font-weight: bold;
+    text-align: center;
+}
